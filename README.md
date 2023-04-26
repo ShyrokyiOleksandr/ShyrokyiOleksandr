@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShyrokyiOleksandr
 - 👀 I’m interested in different crossplatfotm projects development
-- 🌱 I’m currently learning project development with Flutter SDK
-- 💞️ I’m looking to collaborate on Flutter projects, currently as a Junior Developer 
+- 🌱 I’m currently developing with Flutter SDK
+- 💞️ I’m looking teams to collaborate on Flutter projects
 - 📫 How to reach me: 
 ** Gmail: shyrokyi.oleksandr@gmail.com
 
